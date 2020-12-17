@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "5fbea33a0dcf1f1340c41d72"
+  },
+  "name": "durgesh giri",
+  "email": "giri@gmail.com",
+  "username": "8299460315",
+  "password": "$2a$10$F71FdsWTDvHjyEq2T8LCOe4Lukn92VtEuLjOwCzCFK7S/c7sr6ucK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbf135a95f2930bfc2adf53"
+  },
+  "name": "durgesh giri",
+  "email": "giri@gmail.com",
+  "username": "7388182148",
+  "password": "$2a$10$S69ZdvU22ravr.UCH1dk2ewpad9I.VMk.So/vPs56J8dFi8ThHfW.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbf331ec0bf951c70c3539e"
+  },
+  "name": "Abhi",
+  "email": "giri@gmail.com",
+  "username": "8299460355",
+  "password": "$2a$10$h/k66O6w/BA6.G/0D9.l2eU3js8KKdEzd6m1a7AwK.QbaFfVNSutm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbf33f6c0bf951c70c3539f"
+  },
+  "name": "ajay",
+  "email": "jaay@hhjkhjk.com",
+  "username": "9884562000",
+  "password": "$2a$10$uJiCCfbZMN2DSzBRTHt3a.c5fS7SQUBS94Z8y7Ev1tZ/68hjdsGWW",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbf342ec0bf951c70c353a0"
+  },
+  "name": "ajay",
+  "email": "lkjl@kl.in",
+  "username": "9884562000",
+  "password": "$2a$10$NjFG1pZ47e34ONNgiNeFGuBFzWMoVRBrVzwgWWQhAYfti5FSPnHaO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbfe3ebb4b9f12630a64c8a"
+  },
+  "name": "durgesh giri",
+  "email": "giri@gmail.com",
+  "username": "8299460316",
+  "password": "$2a$10$bVnP2wpRLF5XtlOEx/QiNOfgjeUlsPr9V/URohxVN7ToyXElPRgSC",
+  "__v": 0
+}]
